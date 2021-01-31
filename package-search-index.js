@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"AppointmentsApp"},{"l":"AppointmentsApp.Database"},{"l":"AppointmentsApp.Models"},{"l":"AppointmentsApp.Services"},{"l":"AppointmentsApp.Utils"},{"l":"AppointmentsApp.Views"}]
